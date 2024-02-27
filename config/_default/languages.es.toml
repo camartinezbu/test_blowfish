@@ -3,14 +3,15 @@ languageName = "Spanish"
 weight = 2
 title = "Blowfish (es)"
 
-displayName = "ES"
-isoCode = "es"
-rtl = false
-dateFormat = "2 January 2006"
-# logo = "img/logo.png"
-# secondaryLogo = "img/secondary-logo.png"
-description = "Mi sitio web cool"
-# copyright = "Copy, _right?_ :thinking_face:"
+[params]
+  displayName = "ES"
+  isoCode = "es"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Mi sitio web cool"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
 # [author]
 #   name = "Your name here"
